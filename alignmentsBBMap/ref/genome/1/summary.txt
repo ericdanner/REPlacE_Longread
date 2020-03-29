@@ -1,0 +1,13 @@
+#Summary
+#Generated on	Fri Jul 26 10:41:56 CEST 2019
+#Version	5
+chroms	1
+bases	22805
+defined	2805
+undefined	20000
+contigs	1
+scaffolds	1
+interpad	6000
+source	/home/edanner/workspace/V2Seq/refseqs/reporterwtrev.fasta
+bytes	2856
+last modified	1564085423000

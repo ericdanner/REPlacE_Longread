@@ -1,0 +1,20 @@
+#THIS IS ALL WRITTEN VERY MESSY. In general most of the work is in the Jupyter notebooks in 'scripts'. Then the other major step is the R script in "analysis"
+# please contact edanner.lab@gmail.com for help making sense of it.
+
+#Install miniconda
+#Install the .yml conda enviornment Danner. It has the required software for the alignments.
+#Install IGV for easily viewing alignments
+#Install Rstudio with:
+	library(data.table)
+	library(GenomicAlignments)
+	library(seqinr)
+
+#Load JuptyerNotebooks from the Danner.yml conda enviornment
+
+RawData -> SeqFwd -> Sortedseq -> Alignmnet(minimap or BBmap) -> Analysis (indel analysis) Use R script to analyze indels. -> Plot
+
+
+# There is just some sample unsorted data that is the first 1000 fastq files.
+# The sorted data file has the sorted data acutally used in the paper, except the sorted deletion reads were truncated as the original fasta file was too big for github.
+
+

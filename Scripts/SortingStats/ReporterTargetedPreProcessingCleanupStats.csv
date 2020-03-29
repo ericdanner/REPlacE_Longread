@@ -1,0 +1,9 @@
+Num seq in original file:,64163
+5'Fwd containg sequences:,29112
+3'endF containing seqs:,32408
+3'endR containing seqs: ,34524
+# total forward reads ,22354
+# of total reverse reads:,24432
+final count in new file going one direction: ,46786
+reads containing both F and R seq:,13913
+Mistery sequence without any recognized sequence:,3211

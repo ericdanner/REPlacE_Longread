@@ -1,0 +1,2 @@
+@SQ	SN:PolbDel	LN:3018
+@PG	ID:minimap2	PN:minimap2	VN:2.17-r941	CL:minimap2 -ax map-pb polbdelREF.fasta TestingPolbDelSmall

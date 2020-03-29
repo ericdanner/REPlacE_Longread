@@ -1,0 +1,10 @@
+bfp1	925
+bfp2	1916
+venus1	925
+mCherry1	925
+mCherry2	1767
+pWT1	1021
+pWT2	1428
+pCherry1	1021
+pCherry2	2251
+pDel1	1021
